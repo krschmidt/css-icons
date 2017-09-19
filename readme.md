@@ -10,3 +10,6 @@ These have been tested against Groupwise and Gmail. Additonal icons welcome.
 
 ## [Twitter](/twitter.html)
 ![Twitter Icon Preview](/twitter.png?raw=true)
+
+## [YouTube](/youtube.html)
+![YouTube Icon Preview](/youtube.png?raw=true)
