@@ -8,6 +8,9 @@ These have been tested against Groupwise and Gmail. Additonal icons welcome.
 ## [Facebook](/facebook.html)
 ![Facebook Icon Preview](/facebook.png?raw=true)
 
+## [LinkedIn](/linkedin.html)
+![LinkedIn Icon Preview](/linkedin.png?ra=true)
+
 ## [Twitter](/twitter.html)
 ![Twitter Icon Preview](/twitter.png?raw=true)
 
